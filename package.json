@@ -1,5 +1,9 @@
 { 
   "homepage": "http://ushiratissera.github.io/m5fx-react-front",
+   "engines" : { 
+    "npm" : ">=6.14.13",
+    "node" : ">=14.17.3"
+  },
   "name": "doar",
   "version": "1.0.0",
   "main": "index.js",
